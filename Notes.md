@@ -8,6 +8,7 @@ The Firewalker LED light project was inspired by Becky Stern. She wanted to have
   ### 2.1 Supplies list
   
     **NECESSARY TO BUY FROM ADAFRUIT**
+    
     1. ONE - The Adafruit **GEMMA M0 board**, (Miniature wearable electronic platform): [https://www.adafruit.com/product/3501](https://www.adafruit.com/product/3501)
     2. TWO to FOUR meters of Adafruit **NeoPixel LED Strip** - Digital RGB/White 60 LED: [https://www.adafruit.com/product/1138](https://www.adafruit.com/product/1138)
     3. ONE - Vibration Sensor Switch [https://www.adafruit.com/product/1766](https://www.adafruit.com/product/1766)
@@ -25,6 +26,7 @@ The Firewalker LED light project was inspired by Becky Stern. She wanted to have
   
   - Download the **Adafruit Gemma M0** manual.
   - Gemma Overview: https://learn.adafruit.com/adafruit-gemma-m0
+  - https://cdn-learn.adafruit.com/downloads/pdf/adafruit-gemma-m0.pdf
   - 
   - Create directions for assmbling the Firewalker kit. 
 ## 3. Software  
