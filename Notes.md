@@ -1,22 +1,56 @@
 # Notes
 
-1. Introduction
-2. Hardware  
-  - Tools and supplies list
+## 1. Introduction
+
+The Firewalker LED light project was inspired by Becky Stern. She wanted to have sneakers that glow in the dark. At the Marconi musuem we decided it would be great if we could put our lights on anything, like a bike helmet or sewn to the back of your jacket.
+
+## 2. Hardware  
+  ### 2.1 Supplies list
+  
+    **NECESSARY TO BUY FROM ADAFRUIT**
+    1. ONE - The Adafruit **GEMMA M0 board**, (Miniature wearable electronic platform): [https://www.adafruit.com/product/3501](https://www.adafruit.com/product/3501)
+    2. TWO to FOUR meters of Adafruit **NeoPixel LED Strip** - Digital RGB/White 60 LED: [https://www.adafruit.com/product/1138](https://www.adafruit.com/product/1138)
+    3. ONE - Vibration Sensor Switch [https://www.adafruit.com/product/1766](https://www.adafruit.com/product/1766)
+    
+    **YOU CAN BUY THESE FROM ANYWHERE**
+    3. ONE - 3 x AAA Battery Holder with On/Off Switch: [https://www.adafruit.com/product/727](https://www.adafruit.com/product/727)
+    4. X - Feet of Silicone Cover Wire (26AWG): [https://www.adafruit.com/product/1970](https://www.adafruit.com/product/1970)
+    5. ONE - USB cable (USB A to Micro-B - 3 foot long): [https://www.adafruit.com/product/592](https://www.adafruit.com/product/592)
+
+  ### 2.2 For Sewing
+    1. Needle set: [https://www.adafruit.com/product/615](https://www.adafruit.com/product/615)
+    2. [Sewing Thread](https://www.joann.com/p/top-stitch-heavy-duty-thread-33-yards-/2279701.html?gQT=1)
+    
+  - Go to: https://cdn-learn.adafruit.com/downloads/pdf/adafruit-gemma-m0.pdf
+  
+  - Download the **Adafruit Gemma M0** manual.
+  - Gemma Overview: https://learn.adafruit.com/adafruit-gemma-m0
+  - 
   - Create directions for assmbling the Firewalker kit. 
-3. Software  
+## 3. Software  
   - Create directions for for installing (Thonny or Mu or PyCharm). 
   - Directions for Windows and Linux
-4. Directions for upgrading the Circuit Python located on the Gemma M0 board. 
-5. Circuit Python code for Firewalker
-6. Introduction to Circuit Python
+
+## 4. Directions for upgrading the Circuit Python located on the Gemma M0 board. 
+
+  - https://www.youtube.com/@BuildWithProfG/featured
+  - www.youtube.com/@BuildWithProfG
+
+## 5. Circuit Python code for Firewalker
+  - Latest stable release for the Gemma M0: [https://circuitpython.org/board/gemma_m0/](https://circuitpython.org/board/gemma_m0/)
+
+## 6. Introduction to Circuit Python
   - Commands contained in Firewalker code.
+  - [https://circuitpython.org/](https://circuitpython.org/)
+
   - Import 
-7. (?) Introdcution to Arduino Coding(?)
-8. Using Linux with a USB thumb drive.
+
+## 7. (?) Introdcution to Arduino Coding(?)
+
+## 8. Using Linux with a USB thumb drive.
 
 
-Sections
+================================
 
 1.
 
