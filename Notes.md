@@ -12,7 +12,7 @@ These instructions were written **FOR:**
 2. TWO to FOUR meters of Adafruit **NeoPixel LED Strip**: [https://www.adafruit.com/product/1138](https://www.adafruit.com/product/1138)
 3. ONE - **Vibration Switch** (FAST): [https://www.adafruit.com/product/1766](https://www.adafruit.com/product/1766)
 
-**NOTE:** For this project, we recommend buying **these three parts** from [AdaFruit.com]([https://www.adafruit.com).
+**NOTE:** For this project, we recommend buying **these three parts** from [AdaFruit.com](https://www.adafruit.com).
 
 ---
 
@@ -51,7 +51,7 @@ You will also need:
 
   - Import 
 
-## 7. (?) Introdcution to Arduino Coding(?)
+## 7. (?) Introduction to Arduino Coding(?)
 
 ## 8. Using Linux with a USB thumb drive.
 
@@ -88,7 +88,7 @@ except ImportError:
 # No auto-write.
 
 ## Start with the Variables
-## You need to tell your Gemma board how many LEDs you have, and MORE!
+## You need to tell your Gemma board how many LEDs you have and MORE!
 led_pin = board.D1  # Which pin your pixels are connected to
 num_leds = 40  # How many LEDs you have
 circumference = 40  # Shoe circumference, in pixels, may be > NUM_LEDS
@@ -107,7 +107,7 @@ ramping_up = False
 center = 0  # Center point of wave in fixed-point space (0 - 255)
 speed = 1  # Distance to move between frames (-128 - +127)
 width = 2  # Width from peak to bottom of triangle wave (0 - 128)
-hue = 3  # Current wave hue (color) see comments later
+hue = 3  # Current wave hue (color); see comments later
 hue_target = 4  # Final hue we're aiming for
 red = 5  # LED RGB color calculated from hue
 green = 6  # LED RGB color calculated from hue
@@ -124,11 +124,11 @@ wave = [0] * 8, [0] * 8, [0] * 8
 # Note that the speeds of each wave are different prime numbers.
 # This avoids repetition as the waves move around the
 # perimeter...if they were even numbers or multiples of each
-# other, there'd be obvious repetition in the pattern of motion...
+# other, there'd be obvious repetition in the motion pattern...
 # beat frequencies.
 n_waves = len(wave)
 
-# 90 distinct hues (0-89) around color wheel
+# 90 distinct hues (0-89) around a color wheel
 hue_table = [255, 255, 255, 255, 255, 255, 255, 255, 237, 203,
              169, 135, 101, 67, 33, 0, 0, 0, 0, 0, 0, 0, 0, 0,
              0, 0, 0, 0, 0, 0, 18, 52, 86, 120, 154, 188, 222,
@@ -196,7 +196,7 @@ def vibration_detector():
 
 while True:
 
-    # wait for vibration sensor to trigger
+    # wait for the vibration sensor to trigger
     if not ramping_up:
         ramping_up = vibration_detector()
         wave_setup()
@@ -205,7 +205,7 @@ while True:
     # This is a low-pass filter...it makes the brightness
     # value decelerate as it approaches a target (200 in
     # this case).  207 is used here because integers round
-    # down on division and we'd never reach the target;
+    # down on division, and we'd never reach the target;
     # it's an ersatz ceil() function: ((199*7)+200+7)/8 = 200;
     brightness = int(((brightness * 7) + 207) / 8)
     count += 1
@@ -262,7 +262,7 @@ while True:
 
             # For each item in wave[] array...
             for w_index in range(n_waves):
-                # Calculate distance from pixel center to wave
+                # Calculate the distance from the pixel center to the wave
                 # center point, using both signed and unsigned
                 # 8-bit integers...
                 d1 = int(abs(x - wave[w_index][center]))
@@ -279,15 +279,15 @@ while True:
                 # d2 distance, relative to wave width, is then
                 # proportional to the wave's brightness at this
                 # pixel (basic linear y=mx+b stuff).
-                # Is distance within wave's influence?
-                # d2 is opposite; distance to wave's end
+                # Is distance within the wave's influence?
+                # d2 is the opposite; distance to wave's end
                 if d1 < wave[w_index][width]:
                     d2 = wave[w_index][width] - d1
                     y = int(brightness * d2 / wave[w_index][width])  # 0 to 200
 
                     # y is a brightness scale value --
-                    # proportional to, but not exactly equal
-                    # to, the resulting RGB value.
+                    # proportional to, but not exactly equal to,
+                    # the resulting RGB value.
                     if y < 128:  # Fade black to RGB color
                         # In HSV colorspace, this would be
                         # tweaking 'value'
@@ -315,8 +315,7 @@ while True:
             if b > 255:
                 b = 255
 
-            # Store resulting RGB value and we're done with
-            # this pixel!
+            # Store the resulting RGB values then we're done with this pixel!
             strip[i] = (r, g, b)
 
         # Once rendering is complete, a second pass is made
@@ -339,7 +338,8 @@ while True:
 
 #include <Adafruit_NeoPixel.h>
 
-const uint8_t gamma[] PROGMEM = { // Gamma correction table for LED brightness
+// Gamma correction table for LED brightness
+const uint8_t gamma[] PROGMEM = { 
     0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,
     0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  0,  1,  1,  1,  1,
     1,  1,  1,  1,  1,  1,  1,  1,  1,  2,  2,  2,  2,  2,  2,  2,
@@ -380,16 +380,16 @@ Adafruit_NeoPixel strip = Adafruit_NeoPixel(N_LEDS, LED_PIN, NEO_GRB + NEO_KHZ80
 
 int
   stepMag[MAXSTEPS],  // Magnitude of steps
-  stepX[MAXSTEPS],    // Position of 'step wave' along strip
-  mag[SHOE_LEN_LEDS], // Brightness buffer (one side of shoe)
+  stepX[MAXSTEPS],    // Position of 'step wave' along the strip
+  mag[SHOE_LEN_LEDS], // Brightness buffer (one side of the shoe)
   stepFiltered,       // Current filtered pressure reading
   stepCount,          // Number of 'frames' current step has lasted
-  stepMin;            // Minimum reading during current step
+  stepMin;            // Minimum reading during the current step
 uint8_t
   stepNum = 0,        // Current step number in stepMag/stepX tables
   dup[SHOE_LEN_LEDS]; // Inside/outside copy indexes
 boolean
-  stepping  = false;  // If set, step was triggered, waiting to release
+  stepping  = false;  // If set, a step was triggered, waiting to release
 
 
 void setup() {
@@ -419,8 +419,8 @@ void loop() {
   stepFiltered = ((stepFiltered * 3) + analogRead(STEP_PIN)) >> 2;
 
   // The strip doesn't simply display the current pressure reading.  Instead,
-  // there's a bit of an animated flourish from heel to toe.  This takes time,
-  // and during quick foot-tapping there could be multiple step animations
+  // there's an animated flourish from heel to toe.  This takes time,
+  // and during quick foot-tapping, there could be multiple-step animations
   // 'in flight,' so a short list is kept.
   if(stepping) { // If a step was previously triggered...
     if(stepFiltered >= STEP_HYSTERESIS) { // Has step let up?
@@ -444,7 +444,7 @@ void loop() {
     for(j=0; j<SHOE_LEN_LEDS; j++) { // For each LED...
       // Each step has sort of a 'wave' that's part of the animation,
       // moving from heel to toe.  The wave position has sub-pixel
-      // resolution (4X), and is up to 80 units (20 pixels) long.
+      // resolution (4X), up to 80 units (20 pixels) long.
       mx1 = (j << 2) - stepX[i]; // Position of LED along wave
       if((mx1 <= 0) || (mx1 >= 80)) continue; // Out of range
       if(mx1 > 64) { // Rising edge of wave; ramp up fast (4 px)
