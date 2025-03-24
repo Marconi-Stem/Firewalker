@@ -2,7 +2,9 @@
 
 ## 1. Introduction
 
-The Firewalker LED light project was inspired by Becky Stern. She wanted to have sneakers that glow in the dark. At the Marconi musuem we decided it would be great if we could put our lights on anything, like a bike helmet or sewn to the back of your jacket.
+The Firewalker LED light project was inspired by Becky Stern. It uses a small microcontroller called the Gemma M0(add sound?) and a string of multi-colored lights called the *NeoPixel
+
+At the Chatham Marconi Museum, we decided to use her ideas and parts list to make a set of lights that can be placed on a bike helmet or sewn to the front or back of a coat. 
 
 ## 2. Hardware  
 ### 2.1 Supplies list
