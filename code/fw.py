@@ -12,6 +12,19 @@ import board
 import digitalio
 import neopixel
 
+## For Python help go to: https://www.w3schools.com/python/ 
+
+## The **try:except** block lets you test a block of code for errors. 
+
+    "try:" part: This is where you put the code that might cause an error or a problem. It's like saying, "Let's try to do this..."
+    "except:" part: This is what Python does if something goes wrong in the "try:" part. It's like saying, "...but if we run into a problem, do this instead."
+
+So, instead of your program crashing and stopping, the "except" part lets you handle the problem gracefully.
+
+Simple Example:
+
+Imagine you ask the computer to divide a number by another number. But what if the second number is zero? You can't divide by zero!
+
 try:
     import urandom as random
 except ImportError:
