@@ -45,10 +45,11 @@ These instructions were written **FOR:**
 
 ## 4. Directions for upgrading the Circuit Python located on the Gemma M0 board. 
 
-  - https://www.youtube.com/@BuildWithProfG/featured
-  - www.youtube.com/@BuildWithProfG
+  - [Prof. G Youtube Channel](www.youtube.com/@BuildWithProfG)
+  - [CircuitPython School](https://www.youtube.com/playlist?list=PLBJJ76R_ry5T3X72OIDkMOXQIdmcvSkue)
 
 ## 5. Circuit Python code for Firewalker
+
   - Latest stable release for the Gemma M0: [https://circuitpython.org/board/gemma_m0/](https://circuitpython.org/board/gemma_m0/)
 
 ## 6. Introduction to Circuit Python
