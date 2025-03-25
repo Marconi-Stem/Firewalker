@@ -42,6 +42,7 @@ These instructions were written **FOR:**
     1. [Thonny](https://thonny.org/) for beginners
       1. See Video, https://www.youtube.com/watch?v=bdvYIumllx8
     3. [PyCharm](https://www.jetbrains.com/pycharm/download/)
+    4. [Circup](https://pypi.org/project/circup/)
 
 ## 4. Directions for upgrading the Circuit Python located on the Gemma M0 board. 
 
