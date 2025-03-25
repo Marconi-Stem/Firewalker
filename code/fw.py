@@ -1,15 +1,9 @@
 # This file contains *Circuit Python* code for the Marconi Firewalker project.
 
-# SPDX-FileCopyrightText: 2018 Phillip Burgess for Adafruit Industries
-# SPDX-License-Identifier: MIT
-
-# Gemma "Firewalker Lite" sneakers
-# Uses the following Adafruit parts (X2 for two shoes):
+# Gemma "Firewalker Lite" 
+# Uses the following Adafruit parts (for one helmet):
 #    * Gemma M0 3V microcontroller (#3501)
-#    * 150 mAh LiPoly battery (#1317) or larger
-#    * Medium vibration sensor switch (#2384)
 #    * 60/m NeoPixel RGB LED strip (#1138 or #1461)
-#    * LiPoly charger such as #1304
 #
 # Originally written by Phil Burgess for Gemma using Arduino
 #    * https://learn.adafruit.com/gemma-led-sneakers
@@ -26,14 +20,16 @@ except ImportError:
 # Declare a NeoPixel object on led_pin with num_leds as pixels
 # No auto-write.
 
-## Start with the Variables
-## You need to tell your Gemma board how many LEDs you have and MORE!
-led_pin = board.D1  # Which pin your pixels are connected to
-num_leds = 40  # How many LEDs you have
-circumference = 40  # Shoe circumference, in pixels, may be > NUM_LEDS
+## STEP 1: Start with the Variables
+
+# You need to tell your Gemma board how many LEDs you have and MORE!
+
+led_pin = board.D1  # Which pin are your pixels are connected to?
+num_leds = 5  # How many LEDs do you have?
+circumference = 5  # Shoe circumference, in pixels, may be > NUM_LEDS
 frames_per_second = 50  # Animation frames per second
 brightness = 0  # Current wave height
-strip = neopixel.NeoPixel(led_pin, num_leds, brightness=1, auto_write=False)
+strip = neopixel.NeoPixel(led_pin, num_leds, brightness = 1, auto_write = False)
 offset = 0
 
 # vibration sensor
@@ -96,7 +92,9 @@ gammas = [
 ]
 
 # **def**ine functions
-# Functions are 
+# A function is like a recipe.
+# The imaginary function "make_pbj_sandwich" would have commands like: 
+#     * get two slices of bread, get peanut butter, get jelly, get a knife, etc.
 
 def h2rgb(colour_hue):
     colour_hue %= 90
