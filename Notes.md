@@ -58,7 +58,4 @@ These instructions were written **FOR:**
   - [https://circuitpython.org/](https://circuitpython.org/)
 
   - Import 
-
-## 7. (?) Introduction to Arduino Coding(?)
-
-## 8. Using Linux with a USB thumb drive.
+sss
