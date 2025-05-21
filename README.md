@@ -25,16 +25,16 @@ To prepare our *Firewalker Protective LEDs* we have X steps:
 
 ## 2. We will need:
   
-| No. | Part |
+| Quantity | Part |
 | :-: | :-: |
-| ONE | Adafruit **GEMMA M0 board**: [https://www.adafruit.com/product/3501](https://www.adafruit.com/product/3501) |
-| TWO to FOUR meters | Adafruit **NeoPixel LED Strip**: [https://www.adafruit.com/product/1138](https://www.adafruit.com/product/1138) |  
-| ONE | **Vibration Switch** (FAST): [https://www.adafruit.com/product/1766](https://www.adafruit.com/product/1766)<br>**OR BUTTON TBD** |  
-| ONE | **AAA Three Battery Holder with On/Off Switch**: [https://www.adafruit.com/product/727](https://www.adafruit.com/product/727)|  
-| 3 Feet | **Silicone Cover Wire** (26AWG): [https://www.adafruit.com/product/1970](https://www.adafruit.com/product/1970)|  
-| ONE | **USB cable** USB A to Micro-B - 3 foot long *for data & power*: [https://www.adafruit.com/product/592](https://www.adafruit.com/product/592)|  
-| One tube | [Silicon Glue](https://www.amazon.com/gp/product/B00ID8EDKY?tag=chtrbr429186-20&th=1) to attach your lights on a helmet.
-| 3 | [AAA batteries](https://www.amazon.com/AAA-Batteries/b?node=389578011)| 
+| One | ![GEMMA M0 board](https://cdn-shop.adafruit.com/970x728/3501-03.jpg)<br>Adafruit GEMMA M0 board:<br>[https://www.adafruit.com/product/3501](https://www.adafruit.com/product/3501) |
+| One meter @ $15 | ![Neopixel Strip](https://cdn-shop.adafruit.com/970x728/1138-00.jpg)Adafruit NeoPixel Digital RGB LED Strip, Product ID: 1138 <br>[https://www.adafruit.com/product/1138](https://www.adafruit.com/product/1138) |  
+| ONE | Vibration Switch (FAST):<br>[https://www.adafruit.com/product/1766](https://www.adafruit.com/product/1766)<br>OR BUTTON TBD |  
+| ONE | ![Battery holder](https://cdn-shop.adafruit.com/970x728/727-07.jpg)<br>AAA Three-Battery-Holder with On/Off Switch:<br>[https://www.adafruit.com/product/727](https://www.adafruit.com/product/727)|  
+| 3 Feet | ![Silicone Covered Wire](https://cdn-shop.adafruit.com/970x728/1970-00.jpg)Silicone Cover Wire (26AWG):<br>[https://www.adafruit.com/product/1970](https://www.adafruit.com/product/1970)|  
+| ONE | ![USB A to Micro-B data cable](https://cdn-shop.adafruit.com/970x728/592-01.jpg)USB cable USB A to Micro-B - 3 foot long Data cable:<br>[https://www.adafruit.com/product/592](https://www.adafruit.com/product/592)|  
+| One tube | ![Silicon Glue](https://gorillatough.com/wp-content/uploads/gorilla_clear_grip_white_bg-450x450-c-default.webp) (Any) Silicon glue to attach your lights onto a helmet.
+| 3 | ![AAA battiers](https://m.media-amazon.com/images/I/71l+6pcdRoL.jpg)<br>(Any) AAA batteries| 
 | X | Three pronged power connectors, and data cable connectors |  
 
 
