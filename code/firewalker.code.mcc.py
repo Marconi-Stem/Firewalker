@@ -8,13 +8,12 @@ except ImportError:
     import random
 
 # Declare a NeoPixel object on led_pin with num_leds as pixels
-# No auto-write; auto_write=False
 led_pin = board.D1  # Which pin your pixels are connected to
-num_leds = 40  # How many LEDs you have
-circumference = 40  # SET to SAME as num_leds
+num_leds = 6  # How many LEDs you have
+circumference = 6  # SET to SAME as num_leds
 frames_per_second = 50  # Animation frames per second
 brightness = 0  # Current wave height
-strip = neopixel.NeoPixel(led_pin, num_leds, brightness=1, auto_write=False)
+strip = neopixel.NeoPixel(led_pin, num_leds, brightness=1, auto_write=False) # No auto-write
 offset = 0
 
 # vibration sensor
@@ -34,7 +33,6 @@ green = 6  # LED RGB color calculated from hue
 blue = 7  # LED RGB color calculated from hue
 
 y = 0
-brightness = 0
 count = 0
 
 # Gemma can animate 3 of these on 40 LEDs at 50 FPS
@@ -78,6 +76,9 @@ gammas = [
 
 
 def h2rgb(colour_hue):
+   """
+   docstring
+   """
     colour_hue %= 90
     h = hue_table[colour_hue >> 1]
 
@@ -91,6 +92,9 @@ def h2rgb(colour_hue):
 
 # pylint: disable=global-statement
 def wave_setup():
+    """
+    docstring
+    """
     global wave
 
     wave = [[0, 3, 60, 0, 0, 0, 0, 0],
@@ -115,7 +119,9 @@ def vibration_detector():
 
 
 while True:
-
+    """
+    docstring
+    """
     # wait for vibration sensor to trigger
     if not ramping_up:
         ramping_up = vibration_detector()
