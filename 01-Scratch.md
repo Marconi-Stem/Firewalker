@@ -51,7 +51,8 @@ Let's join Scratch to get your own account.
 
 ============================
 
-<img alt="page1" src="/images/scratch.png/goto.no.1099373392.circle.png" width="100%" />
+goto.no.1099373392.circle.png
+<img alt="page1" src="/images/scratch.png/goto.no.1099373392.circle.png" width="50%" />
 
 ![goto.no.1099373392.circle](/images/scratch.png/goto.no.1099373392.circle.png)
 ![goto.no.1099373392.explore.graffiti](/images/scratch.png/goto.no.1099373392.explore.graffiti.png)
