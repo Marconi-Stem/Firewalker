@@ -1,12 +1,12 @@
-# Day 1: Visual Programming Fundamentals with Scratch
+# Day 1: Starting With Scratch
 
 **Objective**: Join Scratch and discover its tutorials.
 
 ### A. Joining Scratch
 
-<span style="color:red;font-weight:700;font-size:20px">
+<p style="color:red;font-weight:700;font-size:20px">
     Let's join Scratch to get your own account.
-</span>
+</p>
 
 
 Let's join Scratch to get your own account.
