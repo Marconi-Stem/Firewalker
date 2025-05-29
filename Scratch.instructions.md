@@ -4,10 +4,11 @@
 
 ### A. Joining Scratch
 
-- Go to: 
 
+<script> function button(){ window.open("https://scratch.mit.edu/");} </script> 
+<button onclick="button()">Go to: SCRATCH</button>
 
-
+<img src="Firewalker/images/scratch.png/scratch.join.1.png" width="100%" />
 
 
 
