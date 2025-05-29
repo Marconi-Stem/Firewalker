@@ -4,18 +4,27 @@
 
 ### A. Joining Scratch
 
+<span style="color:red;font-weight:700;font-size:20px">
+    Let's join Scratch to get your own account.
+</span>
 
+
+Let's join Scratch to get your own account.
+ - Go to **scratch.mit.edu**
+
+```
 <script> function button(){ window.open("https://scratch.mit.edu/");} </script> 
 <button onclick="button()">Go to: SCRATCH</button>
 
 <img src="Firewalker/images/scratch.png/scratch.join.1.png" width="100%" />
+```
+
+![Join Scratch](/images/scratch.png/scratch.join.1.png)
 
 
+![Explore the TOP Row](/images/scratch.png/site-join-02.png)
 
-
-
-
-
+[Goto: 1099373392](https://scratch.mit.edu/projects/1099373392/)
 
 
 ============================================================
