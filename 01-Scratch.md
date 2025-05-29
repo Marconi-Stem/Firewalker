@@ -27,7 +27,7 @@ Let's join Scratch to get your own account.
 [Goto: 1099373392](https://scratch.mit.edu/projects/1099373392/)
 
 
-============================================================
+==================================
 
   * Welcome & Icebreaker: What is programming? Why learn it?
   * Introduction to Scratch:
@@ -48,3 +48,34 @@ Let's join Scratch to get your own account.
    * Events or Inputs:
       * Explore when *green flag* clicked, when *key pressed*, when *sprite clicked blocks.
    * Project: Students create a short interactive game or story incorporating loops, conditionals, and events.
+
+============================
+
+![goto.no.1099373392.circle](/images/scratch.png/goto.no.1099373392.circle.png)
+![goto.no.1099373392.explore.graffiti](/images/scratch.png/goto.no.1099373392.explore.graffiti.png)
+![goto.no.1099373392.explore.inside](/images/scratch.png/goto.no.1099373392.explore.inside.png)
+![goto.no.1099373392.explore](/images/scratch.png/goto.no.1099373392.explore.png)
+![goto.no.1099373392.explore.remix](/images/scratch.png/goto.no.1099373392.explore.remix.png)
+![goto.no.1099373392.Inspect.COMMANDS.2](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.2.png)
+![goto.no.1099373392.Inspect.COMMANDS.3](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.3.png)
+![goto.no.1099373392.Inspect.COMMANDS.4](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.4.png)
+![goto.no.1099373392.Inspect.COMMANDS.5](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.5.png)
+![goto.no.1099373392.Inspect.COMMANDS.6](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.6.png)
+![goto.no.1099373392.Inspect.COMMANDS](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.png)
+![goto.no.1099373392](/images/scratch.png/goto.no.1099373392.png)
+![goto.no.1099373392.remix](/images/scratch.png/goto.no.1099373392.remix.png)
+![goto.no.1099373392.see.inside](/images/scratch.png/goto.no.1099373392.see.inside.png)
+![goto.no.1099373392.top](/images/scratch.png/goto.no.1099373392.top.png)
+![scratch.join.1](/images/scratch.png/scratch.join.1.png)
+![scratch.page1](/images/scratch.png/scratch.page1.png)
+![Screenshot_2025-05-14_12-51-15](/images/scratch.png/Screenshot_2025-05-14_12-51-15.png)
+![Screenshot_2025-05-29_10-58-01](/images/scratch.png/Screenshot_2025-05-29_10-58-01.png)
+![site01](/images/scratch.png/site01.png)
+![site02](/images/scratch.png/site02.png)
+![site03](/images/scratch.png/site03.png)
+![site04](/images/scratch.png/site04.png)
+![site-community-guidelines-01](/images/scratch.png/site-community-guidelines-01.png)
+![site-join-02](/images/scratch.png/site-join-02.png)
+![site-join-03](/images/scratch.png/site-join-03.png)
+![site-saving-06](/images/scratch.png/site-saving-06.png)
+![site-tutorital-05](/images/scratch.png/site-tutorital-05.png)
