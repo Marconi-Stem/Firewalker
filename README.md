@@ -1,29 +1,11 @@
-# How To Make The Gemma Firewalker Protective Lights
+# How To Make The Firewalker Protective Lights
 
 ??? 9 AM -12 PM, Aug 5-7, 2025, Marconi Summer STEM course
 
 The *'Firewalker' Protective Lights* is a set of colorful flashing lights that may be placed on a bike helmet or sewn to the front or back of a coat.
 
-# 1. Introduction
 
-
-
-The *'Firewalker' Protective Lights* uses the [Gemma M0](https://learn.adafruit.com/adafruit-gemma-m0) (a small microcontroller) and a string of multi-colored leds aligned on a strip. The LEDS are called the [NeoPixels](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels?embeds=allow).
-
-
-## Making the *Firewalker Protective LEDs*
-
-To prepare our *Firewalker Protective LEDs* we have X steps:
-
-1. Join Scratch and Learn Programming Basics
-2. Download & Install Windows driver
-3. Download & Install .UF2
-4. Download & Install Thonny
-5. Download & Install Circup
-6. Setup Python on your computer,
-
-
-## 2. We will need:
+## 2. We Need:
   
 | Quantity | Part |
 | :-: | :-: |
