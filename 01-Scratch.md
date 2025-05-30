@@ -27,7 +27,7 @@ Alan Turing was interested in how *symbol manipulation* (an important idea in la
 
 ### B. Join Scratch
 
-1. Go to: <script> function button(){ window.open("https://scratch.mit.edu");} </script> <button onclick="button()">*scratch.mit.edu*</button>
+1. Go to: <script> function button(){ window.open("https://scratch.mit.edu"); } </script> <button onclick="button()">scratch.mit.edu</button>
 
 
 1. Join and Log-in to the Scratch Home page.  
