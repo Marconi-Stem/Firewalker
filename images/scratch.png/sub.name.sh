@@ -8,19 +8,9 @@ OUTPUT_FILE="image_list.md"
 > "$OUTPUT_FILE"
 
 
-# Check if the target directory exists
-#if [ ! -d "$TARGET_DIR" ]; then
-#    echo "Error: Directory '$TARGET_DIR' not found."
-#    exit 1
-#fi
-
-# Navigate to the target directory
-#cd "$TARGET_DIR" || { echo "Error: Could not change to directory '$TARGET_DIR'"; exit 1; }
-
-
-# Loop through each .png file in the directory and append to the output file
+# Seek *.png files process & append to output file
 for file in *.png; do
-    # Check if any .png files were found (handles cases where no .png files exist)
+    # Check for .png files
     if [ -f "$file" ]; then
         # Get the filename without the extension
         filename_no_ext="${file%.*}"
