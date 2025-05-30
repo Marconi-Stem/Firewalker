@@ -12,20 +12,18 @@
 
 - **Who Uses Scratch And Why?**
 
-GOOD
-<a href="https://www.youtube.com/shorts/UvpGHZw79DA">
+GOOD  
+1. <a href="https://www.youtube.com/shorts/UvpGHZw79DA">
   <button>Googlers</button>
 </a>
 
-<input type="button" onclick="location.href='https://www.youtube.com/shorts/UvpGHZw79DA';" value="Googlers" />
+1. <input type="button" onclick="location.href='https://www.youtube.com/shorts/UvpGHZw79DA';" value="Googlers" />
 
+2. <script> function button(){ window.open("https://www.youtube.com/shorts/UvpGHZw79DA"); } </script> <button onclick="button()">Googlers</button>
 
+3. Try This: <script> function button(){ window.open('https://www.youtube.com/watch?v=jXUZaf5D12A'); } </script> <button onclick="button()">The Scratch Team-1</button>
 
-<script> function button(){ window.open("https://www.youtube.com/shorts/UvpGHZw79DA"); } </script> <button onclick="button()">Googlers</button>
-
-1. Try This: <script> function button(){ window.open('https://www.youtube.com/watch?v=jXUZaf5D12A'); } </script> <button onclick="button()">The Scratch Team-1</button>
-
- 2. Resort To This: <script> function button(){ window.open('https://www.youtube.com/watch?v=98awWpkx9UM'); } </script><button onclick="button()">The Scratch Team-2</button>
+4. Resort To This: <script> function button(){ window.open('https://www.youtube.com/watch?v=98awWpkx9UM'); } </script><button onclick="button()">The Scratch Team-2</button>
 
 ---
 
