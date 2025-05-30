@@ -12,11 +12,11 @@
 
 - **Who Uses Scratch And Why?**
 
-1. Watch This: <script> function button(){ window.open('https://www.youtube.com/shorts/UvpGHZw79DA'); } </script> <button onclick="button()">Googlers</button>
+1. Watch This: <script> function button(){ window.open("https://www.youtube.com/shorts/UvpGHZw79DA"); } </script> <button onclick="button()">Googlers</button>
 
 1. Try This: <script> function button(){ window.open('https://www.youtube.com/watch?v=jXUZaf5D12A'); } </script> <button onclick="button()">The Scratch Team-1</button>
 
- 1. Resort To This: <script> function button(){ window.open('https://www.youtube.com/watch?v=98awWpkx9UM'); } </script> <button onclick="button()">The Scratch Team-2</button>
+ 1. Resort To This: <script> function button(){ window.open('https://www.youtube.com/watch?v=98awWpkx9UM'); } </script><button onclick="button()">The Scratch Team-2</button>
 
 ---
 
