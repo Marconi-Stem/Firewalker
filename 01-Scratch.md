@@ -8,18 +8,13 @@
 
 - Who uses Scratch and Why?
 
-https://www.youtube.com/shorts/tw2A6ilimYg
+https://www.youtube.com/shorts/UvpGHZw79DA googlers
 
-https://www.youtube.com/shorts/UvpGHZw79DA
+https://www.youtube.com/watch?v=jXUZaf5D12A Scratch Team
 
+https://www.youtube.com/watch?v=98awWpkx9UM Scratch Team
 
-https://www.youtube.com/@BlackGirlsCode/videos
-
-https://www.youtube.com/watch?v=jXUZaf5D12A
-
-https://www.youtube.com/shorts/185B9VQFYts
-
-https://www.youtube.com/watch?v=98awWpkx9UM
+---
 
 - Did you know?
   - Early computer scientists had backgrounds in mathematics, and languages, which influenced the way they approached computing.
@@ -27,8 +22,6 @@ https://www.youtube.com/watch?v=98awWpkx9UM
 Alan Turing was interested in how *symbol manipulation* (a foundational idea in language and computation) could be used with computing.
 
 ![turing pic](/images/scratch.png/turing.movie.png)
-
-video
 
 ---
 
