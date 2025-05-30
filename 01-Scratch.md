@@ -11,17 +11,18 @@
 ### A. Mental Floss
 
 - **Who Uses Scratch And Why?**
+ 
+1. https://www.youtube.com/shorts/UvpGHZw79DA
+   
+2. <a href="https://www.youtube.com/shorts/UvpGHZw79DA"> <button>Googlers</button> </a>
 
-GOOD  
-1. <a href="https://www.youtube.com/shorts/UvpGHZw79DA"> <button>Googlers</button> </a>
+3. <input type="button" onclick="location.href='https://www.youtube.com/shorts/UvpGHZw79DA';" value="Googlers" />
 
-1. <input type="button" onclick="location.href='https://www.youtube.com/shorts/UvpGHZw79DA';" value="Googlers" />
+4. <script> function button(){ window.open("https://www.youtube.com/shorts/UvpGHZw79DA"); } </script> <button onclick="button()">Googlers</button>
 
-2. <script> function button(){ window.open("https://www.youtube.com/shorts/UvpGHZw79DA"); } </script> <button onclick="button()">Googlers</button>
+5. Try This: <script> function button(){ window.open('https://www.youtube.com/watch?v=jXUZaf5D12A'); } </script> <button onclick="button()">The Scratch Team-1</button>
 
-3. Try This: <script> function button(){ window.open('https://www.youtube.com/watch?v=jXUZaf5D12A'); } </script> <button onclick="button()">The Scratch Team-1</button>
-
-4. Resort To This: <script> function button(){ window.open('https://www.youtube.com/watch?v=98awWpkx9UM'); } </script><button onclick="button()">The Scratch Team-2</button>
+6. Resort To This: <script> function button(){ window.open('https://www.youtube.com/watch?v=98awWpkx9UM'); } </script><button onclick="button()">The Scratch Team-2</button>
 
 ---
 
