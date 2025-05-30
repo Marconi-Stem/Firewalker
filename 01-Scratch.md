@@ -2,23 +2,25 @@
 
 **Objective**: Join Scratch and discover its tutorials.
 
-### A. Joining Scratch
+### A. Join Scratch
 
-<p style="color:red;font-weight:700;font-size:20px">
+<span style="color:red;font-weight:700;font-size:20px">
     Let's join Scratch to get your own account.
-</p>
+</span>
 
-
-Let's join Scratch to get your own account.
  - Go to **scratch.mit.edu**
 
 ```
+button test
 <script> function button(){ window.open("https://scratch.mit.edu/");} </script> 
 <button onclick="button()">Go to: SCRATCH</button>
 
 <img src="Firewalker/images/scratch.png/scratch.join.1.png" width="100%" />
 ```
+1   
+<img src="/images/scratch.png/site-join-02.circles.png" width="100%" />
 
+2   
 ![Join Scratch](/images/scratch.png/scratch.join.1.png)
 
 
