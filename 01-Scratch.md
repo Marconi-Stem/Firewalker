@@ -1,7 +1,6 @@
-# Day 1: Starting With Scratch
+# Day 1: Start With Scratch
 
-**Today's Mission:** 
-Join Scratch. &nbsp;&nbsp; Explore.  &nbsp;&nbsp; Ask questions.
+**Today's Mission:** &nbsp; Join Scratch. &nbsp;&nbsp; Explore.  &nbsp;&nbsp; Ask questions.
 
 <span style="color:green;font-weight:900;font-size:16px">
     Think: How would you describe Scratch to a friend?
@@ -11,13 +10,13 @@ Join Scratch. &nbsp;&nbsp; Explore.  &nbsp;&nbsp; Ask questions.
 
 ### A. Mental Floss
 
-- Who uses Scratch and Why?
+- **Who Uses Scratch And Why?**
 
-https://www.youtube.com/shorts/UvpGHZw79DA googlers
+1. Watch This: <script> function button(){ window.open('https://www.youtube.com/shorts/UvpGHZw79DA'); } </script> <button onclick="button()">Googlers</button>
 
-https://www.youtube.com/watch?v=jXUZaf5D12A Scratch Team
+1. Try This: <script> function button(){ window.open('https://www.youtube.com/watch?v=jXUZaf5D12A'); } </script> <button onclick="button()">The Scratch Team-1</button>
 
-https://www.youtube.com/watch?v=98awWpkx9UM Scratch Team
+ 1. Resort To This: <script> function button(){ window.open('https://www.youtube.com/watch?v=98awWpkx9UM'); } </script> <button onclick="button()">The Scratch Team-2</button>
 
 ---
 
@@ -44,11 +43,11 @@ Alan Turing was interested in how *symbol manipulation* (an important idea in la
 ### Explore The Home Page
 
 1. <span style="color:red;font-weight:600;font-size:16px">
-    Check out the links in the RED ellipse 
+    Check out the links in the RED ellipse.
 </span>
 
-<span style="color:green;font-weight:700;font-size:16px">
-    The whole page has help, ideas, AND projects from other students too! 
+2. <span style="color:green;font-weight:700;font-size:16px">
+    Explore: This page has Help, Ideas, AND Projects by students, like you! 
 </span>
 
 5
@@ -82,6 +81,7 @@ goto.no.1099373392.circle.png
 
 Page 1 after logging in:
 ![scratch.page1](/images/scratch.png/scratch.page1.png)
+
 19
 ![Screenshot_2025-05-14_12-51-15](/images/scratch.png/Screenshot_2025-05-14_12-51-15.png)
 20
