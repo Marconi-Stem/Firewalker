@@ -4,10 +4,10 @@
 
 ---
 
-### Mental Floss
+### A. Mental Floss
 
 - Did you know?
-  - Many early computer scientists had backgrounds in mathematics, logic, and languages, which influenced the way they approached computing.
+  - Early computer scientists had backgrounds in mathematics, and languages, which influenced the way they approached computing.
 
 Alan Turing was interested in how *symbol manipulation* (a foundational idea in language and computation) could be used with computing.
 
@@ -19,7 +19,7 @@ Alan Turing was interested in how *symbol manipulation* (a foundational idea in 
 
 ---
 
-### A. Join Scratch
+### B. Join Scratch
 
 1. Go to: <script> function button(){ window.open("https://scratch.mit.edu/");} </script> <button onclick="button()">*scratch.mit.edu*</button>
 
@@ -36,7 +36,14 @@ Alan Turing was interested in how *symbol manipulation* (a foundational idea in 
     Note: The home page has help, ideas, projects from other students too! 
 </span>
 
+5
 ![scratch.page1](/images/scratch.png/scratch.page1.png)
+
+6
+![goto.no.1099373392.explore.remix](/images/scratch.png/goto.no.1099373392.explore.remix.png)
+
+10
+![goto.no.1099373392.Inspect.COMMANDS.5](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.5.png)
 
 ==================================
 
@@ -74,13 +81,12 @@ goto.no.1099373392.circle.png
 4
 ![goto.no.1099373392.explore.inside](/images/scratch.png/goto.no.1099373392.explore.inside.png)
 
-6
-![goto.no.1099373392.explore.remix](/images/scratch.png/goto.no.1099373392.explore.remix.png)
+
 
 9
 ![goto.no.1099373392.Inspect.COMMANDS.4](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.4.png)
 10
-![goto.no.1099373392.Inspect.COMMANDS.5](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.5.png)
+
 11
 ![goto.no.1099373392.Inspect.COMMANDS.6](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.6.png)
 12
