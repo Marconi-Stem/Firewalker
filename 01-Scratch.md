@@ -1,14 +1,17 @@
 # Day 1: Starting With Scratch
 
-**Today:** Join Scratch. Explore its tutorials. Ask questions.
+**Today's Mission:** 
+Join Scratch. &nbsp;&nbsp; Explore.  &nbsp;&nbsp; Ask questions.
+
+<span style="color:green;font-weight:900;font-size:16px">
+    Think: How would you describe Scratch to a friend?
+</span>
 
 ---
 
 ### A. Mental Floss
 
 - Who uses Scratch and Why?
-
-<a href="#" target="_blank" rel="noopener noreferrer">https://www.youtube.com/shorts/UvpGHZw79DA</a>
 
 https://www.youtube.com/shorts/UvpGHZw79DA googlers
 
@@ -18,7 +21,7 @@ https://www.youtube.com/watch?v=98awWpkx9UM Scratch Team
 
 ---
 
-- Did you know?
+- *Did you know?*
   - Early computer scientists had backgrounds in mathematics, and languages, which influenced the way they approached computing.
 
 Alan Turing was interested in how *symbol manipulation* (an important idea in language and computers) could be used with computing.
@@ -29,7 +32,7 @@ Alan Turing was interested in how *symbol manipulation* (an important idea in la
 
 ### B. Join Scratch
 
-1. Go to: <script> function button(){ window.open("https://scratch.mit.edu"); } </script> <button onclick="button()">scratch.mit.edu</button>
+1. Go to: <script> function button(){ window.open('https://scratch.mit.edu'); } </script> <button onclick="button()">scratch.mit.edu</button>
 
 
 1. Join and Log-in to the Scratch Home page.  
@@ -38,10 +41,14 @@ Alan Turing was interested in how *symbol manipulation* (an important idea in la
 
 ---
 
-3.  **Explore the top links** of the Home page. 
+### Explore The Home Page
+
+1. <span style="color:red;font-weight:600;font-size:16px">
+    Check out the links in the RED ellipse 
+</span>
 
 <span style="color:green;font-weight:700;font-size:16px">
-    Note: The "home page" has help, ideas, AND projects from other students too! 
+    The whole page has help, ideas, AND projects from other students too! 
 </span>
 
 5
@@ -58,19 +65,12 @@ Alan Turing was interested in how *symbol manipulation* (an important idea in la
 
 1 
 goto.no.1099373392.circle.png
-<img alt="page1" src="/images/scratch.png/goto.no.1099373392.circle.png" width="50%" />
-2  
-
-![goto.no.1099373392.circle](/images/scratch.png/goto.no.1099373392.circle.png)
+<img alt="page1" src="/images/scratch.png/goto.no.1099373392.circle.png" width="70%" />
 
 3  
 ![goto.no.1099373392.explore.graffiti](/images/scratch.png/goto.no.1099373392.explore.graffiti.png)
-4
-![goto.no.1099373392.explore.inside](/images/scratch.png/goto.no.1099373392.explore.inside.png)
 
 
-12
-![goto.no.1099373392.Inspect.COMMANDS](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.png)
 13  
 ![goto.no.1099373392](/images/scratch.png/goto.no.1099373392.png)
 14
@@ -88,8 +88,7 @@ Page 1 after logging in:
 ![Screenshot_2025-05-29_10-58-01](/images/scratch.png/Screenshot_2025-05-29_10-58-01.png)
 21
 ![site01](/images/scratch.png/site01.png)
-22
-![site02](/images/scratch.png/site02.png)
+
 23
 ![site03](/images/scratch.png/site03.png)
 24

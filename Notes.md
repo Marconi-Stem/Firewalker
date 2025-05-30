@@ -1,5 +1,7 @@
 # Notes
 
+https://gettingunstuck.gse.harvard.edu/
+
 ## 1. Introduction
 
 The Firewalker LED light project was inspired by Becky Stern. It uses a small microcontroller called the Gemma M0(add sound?) and a string of multi-colored lights called the *NeoPixel*
@@ -86,7 +88,11 @@ To prepare our *Firewalker Protective LEDs* we have X steps:
 
 ![2 Scientists](/images/scratch.png/2scientists.png)<br>Is '*Abracadabra*' a valid command in this computer language?
 
+---
 
+Templates for certificates
+
+https://create.microsoft.com/en-us/templates/certificates
 
 
 ==================================
