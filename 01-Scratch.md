@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=98awWpkx9UM Scratch Team
 - Did you know?
   - Early computer scientists had backgrounds in mathematics, and languages, which influenced the way they approached computing.
 
-Alan Turing was interested in how *symbol manipulation* (a foundational idea in language and computation) could be used with computing.
+Alan Turing was interested in how *symbol manipulation* (an important idea in language and computers) could be used with computing.
 
 ![turing pic](/images/scratch.png/turing.movie.png)
 
@@ -27,9 +27,10 @@ Alan Turing was interested in how *symbol manipulation* (a foundational idea in 
 
 ### B. Join Scratch
 
-1. Go to: <script> function button(){ window.open("https://scratch.mit.edu/");} </script> <button onclick="button()">*scratch.mit.edu*</button>
+1. Go to: <script> function button(){ window.open("https://scratch.mit.edu");} </script> <button onclick="button()">*scratch.mit.edu*</button>
 
-2. Join and Log-in to the Scratch Home page.  
+
+1. Join and Log-in to the Scratch Home page.  
 
 <img alt="join scratch" src="/images/scratch.png/site-join-02.circles.png" width="100%" />
 
