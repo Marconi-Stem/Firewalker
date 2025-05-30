@@ -1,18 +1,19 @@
 # Day 1: Starting With Scratch
 
-**To Do:** Join Scratch and discover its tutorials.
+**Today:** Join Scratch. Explore its tutorials, then ask questions.
 
 ---
 
 ### Mental Floss
 
-Many early computer scientists had backgrounds in mathematics, logic, and languages, which influenced the way they approached computing.
+- Did you know?
+  - Many early computer scientists had backgrounds in mathematics, logic, and languages, which influenced the way they approached computing.
 
-For example, Alan Turing was interested in how *symbol manipulation* (a foundational idea in language and computation) could be used in computing.
+Alan Turing was interested in how *symbol manipulation* (a foundational idea in language and computation) could be used with computing.
 
-![](/images/scratch.png/turing.movie.png)
+![turing pic](/images/scratch.png/turing.movie.png)
 
-![2 Scientists](/images/scratch.png/2scientists.png)<caption>Is '*Abracadabra*' a valid command in this computer language?</caption>
+![2 Scientists](/images/scratch.png/2scientists.png)Is '*Abracadabra*' a valid command in this computer language?
 
 ---
 
