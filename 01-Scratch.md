@@ -6,6 +6,21 @@
 
 ### A. Mental Floss
 
+- Who uses Scratch and Why?
+
+https://www.youtube.com/shorts/tw2A6ilimYg
+
+https://www.youtube.com/shorts/UvpGHZw79DA
+
+
+https://www.youtube.com/@BlackGirlsCode/videos
+
+https://www.youtube.com/watch?v=jXUZaf5D12A
+
+https://www.youtube.com/shorts/185B9VQFYts
+
+https://www.youtube.com/watch?v=98awWpkx9UM
+
 - Did you know?
   - Early computer scientists had backgrounds in mathematics, and languages, which influenced the way they approached computing.
 
@@ -13,15 +28,13 @@ Alan Turing was interested in how *symbol manipulation* (a foundational idea in 
 
 ![turing pic](/images/scratch.png/turing.movie.png)
 
----
-
-![2 Scientists](/images/scratch.png/2scientists.png)<br>Is '*Abracadabra*' a valid command in this computer language?
+video
 
 ---
 
 ### B. Join Scratch
 
-1. Go to: <script> function button(){ window.open("https://scratch.mit.edu/")} </script> <button onclick="button()">*scratch.mit.edu* </button>
+1. Go to: <script> function button(){ window.open("https://scratch.mit.edu/");} </script> <button onclick="button()">*scratch.mit.edu*</button>
 
 2. Join and Log-in to the Scratch Home page.  
 
@@ -29,11 +42,10 @@ Alan Turing was interested in how *symbol manipulation* (a foundational idea in 
 
 ---
 
-
-3.  **Explore the links on top** of the Home page. 
+3.  **Explore the top links** of the Home page. 
 
 <span style="color:green;font-weight:700;font-size:16px">
-    Note: The home page has help, ideas, projects from other students too! 
+    Note: The "home page" has help, ideas, AND projects from other students too! 
 </span>
 
 5

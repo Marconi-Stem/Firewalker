@@ -80,3 +80,8 @@ To prepare our *Firewalker Protective LEDs* we have X steps:
 
 
 [Goto: 1099373392](https://scratch.mit.edu/projects/1099373392/)
+
+
+---
+
+![2 Scientists](/images/scratch.png/2scientists.png)<br>Is '*Abracadabra*' a valid command in this computer language?
