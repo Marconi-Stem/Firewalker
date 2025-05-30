@@ -31,75 +31,65 @@ Alan Turing was interested in how *symbol manipulation* (an important idea in la
 
 ### B. Join Scratch
 
-1. Go to: <script> function button(){ window.open('https://scratch.mit.edu'); } </script> <button onclick="button()">scratch.mit.edu</button>
+1. Go to: [scratch.mit.edu](https://scratch.mit.edu)
 
-
-1. Join and Log-in to the Scratch Home page.  
+2. Join and Log-in to your <span style="color:purple;font-weight:600;font-size:16px">Scratch</span> home page.  
 
 <img alt="join scratch" src="/images/scratch.png/site-join-02.circles.png" width="100%" />
 
 ---
 
-### Explore The Home Page
+### C. Explore Your Home Page
 
-1. <span style="color:red;font-weight:600;font-size:16px">
-    Check out the links in the RED ellipse.
-</span>
+1. Check out the links in the <span style="color:red;font-weight:600;font-size:16px">RED ellipse.</span>
 
-2. <span style="color:green;font-weight:700;font-size:16px">
-    Explore: This page has Help, Ideas, AND Projects by students, like you! 
-</span>
+2. <span style="color:green;font-weight:700;font-size:16px">Explore</span> the **Help, Ideas, & Projects by students**, like you!
 
-5
+3. Your Home page should look like this:  
 ![scratch.page1](/images/scratch.png/scratch.page1.png)
 
-6
+4. 
 ![goto.no.1099373392.explore.remix](/images/scratch.png/goto.no.1099373392.explore.remix.png)
 
-10
+5.
 ![goto.no.1099373392.Inspect.COMMANDS.5](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.5.png)
 
-11
+6.
 ![goto.no.1099373392.Inspect.COMMANDS.6](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.6.png)
 
-1 
+7.
 goto.no.1099373392.circle.png
 <img alt="page1" src="/images/scratch.png/goto.no.1099373392.circle.png" width="70%" />
 
-3  
+8.  
 ![goto.no.1099373392.explore.graffiti](/images/scratch.png/goto.no.1099373392.explore.graffiti.png)
 
-
-13  
+9. 
 ![goto.no.1099373392](/images/scratch.png/goto.no.1099373392.png)
-14
+
+10. 
 ![goto.no.1099373392.remix](/images/scratch.png/goto.no.1099373392.remix.png)
-15
+
+11.
 ![goto.no.1099373392.see.inside](/images/scratch.png/goto.no.1099373392.see.inside.png)
-16
+
+12. 
 ![goto.no.1099373392.top](/images/scratch.png/goto.no.1099373392.top.png)
 
 Page 1 after logging in:
 ![scratch.page1](/images/scratch.png/scratch.page1.png)
 
-19
-![Screenshot_2025-05-14_12-51-15](/images/scratch.png/Screenshot_2025-05-14_12-51-15.png)
-20
-![Screenshot_2025-05-29_10-58-01](/images/scratch.png/Screenshot_2025-05-29_10-58-01.png)
-21
-![site01](/images/scratch.png/site01.png)
-
-23
+14. 
 ![site03](/images/scratch.png/site03.png)
-24
+
+15. 
 ![site04](/images/scratch.png/site04.png)
-25
+
+16. 
 ![site-community-guidelines-01](/images/scratch.png/site-community-guidelines-01.png)
-26
-![site-join-02](/images/scratch.png/site-join-02.png)
-27
-![site-join-03](/images/scratch.png/site-join-03.png)
-28
+
+17. 
 ![site-saving-06](/images/scratch.png/site-saving-06.png)
-29
+
+18. 
 ![site-tutorital-05](/images/scratch.png/site-tutorital-05.png)
