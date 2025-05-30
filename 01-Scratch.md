@@ -1,6 +1,6 @@
 # Day 1: Starting With Scratch
 
-**Today:** Join Scratch. Explore its tutorials, then ask questions.
+**Today:** Join Scratch. Explore its tutorials. Ask questions.
 
 ---
 
@@ -13,28 +13,30 @@ Alan Turing was interested in how *symbol manipulation* (a foundational idea in 
 
 ![turing pic](/images/scratch.png/turing.movie.png)
 
-![2 Scientists](/images/scratch.png/2scientists.png)Is '*Abracadabra*' a valid command in this computer language?
+---
+
+![2 Scientists](/images/scratch.png/2scientists.png)<br>Is '*Abracadabra*' a valid command in this computer language?
 
 ---
 
 ### A. Join Scratch
 
-- Go to: <script> function button(){ window.open("https://scratch.mit.edu/");} </script> <button onclick="button()">*scratch.mit.edu*</button>
+1. Go to: <script> function button(){ window.open("https://scratch.mit.edu/");} </script> <button onclick="button()">*scratch.mit.edu*</button>
+
+2. Join and Log-in to the Scratch Home page.  
 
 <img alt="join scratch" src="/images/scratch.png/site-join-02.circles.png" width="100%" />
 
 ---
 
-1. Log-in to the **Scratch Home page**.   
-2.  **Explore the links** on the top of the Home page. 
 
-<span style="color:orange;font-weight:700;font-size:16px">
+3.  **Explore the links on top** of the Home page. 
+
+<span style="color:green;font-weight:700;font-size:16px">
     Note: The home page has help, ideas, projects from other students too! 
 </span>
 
 ![scratch.page1](/images/scratch.png/scratch.page1.png)
-
-- The bottom of the page has projects from other students.
 
 ==================================
 
@@ -64,19 +66,17 @@ Alan Turing was interested in how *symbol manipulation* (a foundational idea in 
 goto.no.1099373392.circle.png
 <img alt="page1" src="/images/scratch.png/goto.no.1099373392.circle.png" width="50%" />
 2  
+
 ![goto.no.1099373392.circle](/images/scratch.png/goto.no.1099373392.circle.png)
+
 3  
 ![goto.no.1099373392.explore.graffiti](/images/scratch.png/goto.no.1099373392.explore.graffiti.png)
 4
 ![goto.no.1099373392.explore.inside](/images/scratch.png/goto.no.1099373392.explore.inside.png)
-5
-![goto.no.1099373392.explore](/images/scratch.png/goto.no.1099373392.explore.png)
+
 6
 ![goto.no.1099373392.explore.remix](/images/scratch.png/goto.no.1099373392.explore.remix.png)
-7
-![goto.no.1099373392.Inspect.COMMANDS.2](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.2.png)
-8 
-![goto.no.1099373392.Inspect.COMMANDS.3](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.3.png)
+
 9
 ![goto.no.1099373392.Inspect.COMMANDS.4](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.4.png)
 10
