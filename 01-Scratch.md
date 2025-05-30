@@ -8,6 +8,8 @@
 
 - Who uses Scratch and Why?
 
+<a href="#" target="_blank" rel="noopener noreferrer">https://www.youtube.com/shorts/UvpGHZw79DA</a>
+
 https://www.youtube.com/shorts/UvpGHZw79DA googlers
 
 https://www.youtube.com/watch?v=jXUZaf5D12A Scratch Team
