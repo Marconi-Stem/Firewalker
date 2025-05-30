@@ -1,3 +1,3 @@
 ## Images
 
-- This folder (directory) is where you will find images that are shown on this site.
+- This folder contains images for this site.
