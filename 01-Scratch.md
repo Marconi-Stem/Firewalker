@@ -45,6 +45,9 @@ Alan Turing was interested in how *symbol manipulation* (a foundational idea in 
 10
 ![goto.no.1099373392.Inspect.COMMANDS.5](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.5.png)
 
+11
+![goto.no.1099373392.Inspect.COMMANDS.6](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.6.png)
+
 ==================================
 
   * Welcome & Icebreaker: What is programming? Why learn it?
@@ -82,13 +85,6 @@ goto.no.1099373392.circle.png
 ![goto.no.1099373392.explore.inside](/images/scratch.png/goto.no.1099373392.explore.inside.png)
 
 
-
-9
-![goto.no.1099373392.Inspect.COMMANDS.4](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.4.png)
-10
-
-11
-![goto.no.1099373392.Inspect.COMMANDS.6](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.6.png)
 12
 ![goto.no.1099373392.Inspect.COMMANDS](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.png)
 13  
