@@ -77,3 +77,6 @@ To prepare our *Firewalker Protective LEDs* we have X steps:
 4. Download & Install Thonny
 5. Download & Install Circup
 6. Setup Python on your computer,
+
+
+[Goto: 1099373392](https://scratch.mit.edu/projects/1099373392/)
