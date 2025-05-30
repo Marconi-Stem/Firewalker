@@ -13,9 +13,7 @@
 - **Who Uses Scratch And Why?**
 
 GOOD  
-1. <a href="https://www.youtube.com/shorts/UvpGHZw79DA">
-  <button>Googlers</button>
-</a>
+1. <a href="https://www.youtube.com/shorts/UvpGHZw79DA"> <button>Googlers</button> </a>
 
 1. <input type="button" onclick="location.href='https://www.youtube.com/shorts/UvpGHZw79DA';" value="Googlers" />
 
