@@ -1,8 +1,16 @@
 # Day 1: Start With Scratch
 
-**Today's Missions:** 
-1. Join Scratch. &nbsp;&nbsp; Explore.  &nbsp;&nbsp; Ask Questions.
+<hr style="border-color: green; height: 3px;">
 
+<hr style="border: dashed rgb(0,255,0) 1.0px;background-color: rgb(170,0,0);height: 15.0px;"/>
+
+**Today's Missions:** 
+
+<span style="color:green;font-weight:900;font-size:16px">
+&nbsp;&nbsp;&nbsp;1. Join Scratch. &nbsp;&nbsp; Explore.  &nbsp;&nbsp; Ask Questions.
+</span>
+<br>
+<br>
 <span style="color:green;font-weight:900;font-size:16px">
 &nbsp;&nbsp;&nbsp;2. Think: How would you describe Scratch to a friend?
 </span>
@@ -10,7 +18,9 @@
 
 ![hr](/images/scratch.png/hr.png)
 
-### A. Mental Floss
+### A. Mental Floss 
+
+What is Mental Floss
 
 ```<a href="https://www.youtube.com/watch?v=9jTPZfhuVro">
   <img src="/images/scratch.png/scratch.png" width="40%" alt="Link to Example.com">
