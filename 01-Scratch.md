@@ -1,43 +1,33 @@
 # Day 1: Start With Scratch
 
-**Today's Mission:** &nbsp; Join Scratch. &nbsp;&nbsp; Explore.  &nbsp;&nbsp; Ask Questions.
+**Today's Missions:** 
+1. Join Scratch. &nbsp;&nbsp; Explore.  &nbsp;&nbsp; Ask Questions.
 
 <span style="color:green;font-weight:900;font-size:16px">
-    Think: How would you describe Scratch to a friend?
+&nbsp;&nbsp;&nbsp;2. Think: How would you describe Scratch to a friend?
 </span>
 
 ---
 
 ### A. Mental Floss
 
-- **Who Uses Scratch And Why?**
-
-1. [Getting Started with Scratch](https://www.youtube.com/watch?v=9jTPZfhuVro)
-
-2. [Jinho talks about Scratch](https://www.youtube.com/watch?v=TDzeGXatsk8)
-
-1. [Abhi talks about Scratch](https://www.youtube.com/watch?v=uDULFYzaxig)
- 
-3. [Scratch-YouTube](https://www.youtube.com/@ScratchTeam)
+||Who Uses Scratch And Why?|
+|:-:|:-:|
+|[Getting Started with Scratch](https://www.youtube.com/watch?v=9jTPZfhuVro)|<img src="/images/scratch.png/scratch.png" width="60%" />|
+|[Jinho does!](https://www.youtube.com/watch?v=TDzeGXatsk8)|<img src="/images/scratch.png/Jinho.png" width="60%" />|
+|[Abhi does!](https://www.youtube.com/watch?v=uDULFYzaxig)|<img src="/images/scratch.png/Abhi.png" width="60%" />|
 
 
-1. [Meet Google programmers](https://www.youtube.com/shorts/UvpGHZw79DA)
-   
-2. [Try Scratch Team-1](https://www.youtube.com/watch?v=jXUZaf5D12A)
 
-3. [Watch Scratch Team-2](https://www.youtube.com/watch?v=98awWpkx9UM)
 
-Add horizontal line
-![a]()
+![hr](/images/scratch.png/hr.png)
 
 - *Did you know?*
   - Early computer scientists had backgrounds in mathematics, and languages, which influenced the way they approached computing.
 
 |![turing pic](/images/scratch.png/turing.movie.png)|
 |:-:|
-|Alan Turing was an early "computer scientist" (that term wasn't even invented then). He was interested in how *logic* and language which could be used with computing. He imagined machines that could follow rules, like a recipe, to solve problems. These ideas helped us build the first real computers!|
-
-
+|Alan Turing was a 'computer scientist' (*that 'job' wasn't even invented yet*). He was interested in how **logic** and **language**. He imagined machines that solved problems by following rules. He had one idea he called the **Turing Test**, a test to see if machines could fool people!|
 
 ---
 
@@ -60,39 +50,12 @@ Add horizontal line
 3. Your Home page should look like this:  
 ![scratch.page1](/images/scratch.png/scratch.page1.png)
 
-4. 
-[goto.no.1099373392.explore.remix](/images/scratch.png/goto.no.1099373392.explore.remix.png)
-
-5.
+4.
 ![goto.no.1099373392.Inspect.COMMANDS.5](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.5.png)
 
-6.
+5.
 ![goto.no.1099373392.Inspect.COMMANDS.6](/images/scratch.png/goto.no.1099373392.Inspect.COMMANDS.6.png)
 
-7.
-goto.no.1099373392.circle.png
-<img alt="page1" src="/images/scratch.png/goto.no.1099373392.circle.png" width="70%" />
+### D. Let's Explore All Together
 
-1.  
-[goto.no.1099373392.explore.graffiti](/images/scratch.png/goto.no.1099373392.explore.graffiti.png)
-
-[goto.no.1099373392](/images/scratch.png/goto.no.1099373392.png)
-
-[goto.no.1099373392.remix](/images/scratch.png/goto.no.1099373392.remix.png)
-
-[goto.no.1099373392.see.inside](/images/scratch.png/goto.no.1099373392.see.inside.png)
-
-[goto.no.1099373392.top](/images/scratch.png/goto.no.1099373392.top.png)
-
-Page 1 after logging in:
-![scratch.page1](/images/scratch.png/scratch.page1.png)
-
-[site03](/images/scratch.png/site03.png)
-
-[site04](/images/scratch.png/site04.png)
-
-[site-community-guidelines-01](/images/scratch.png/site-community-guidelines-01.png)
-
-[site-saving-06](/images/scratch.png/site-saving-06.png)
-
-[site-tutorital-05](/images/scratch.png/site-tutorital-05.png)
+1. <span style="color:green;font-weight:700;font-size:20px">Push All Your Desks Together.</span>

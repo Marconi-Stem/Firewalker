@@ -61,6 +61,19 @@ These instructions were written **FOR:**
 
   - Import 
 
+---
+
+
+4. [Scratch-YouTube](https://www.youtube.com/@ScratchTeam)
+
+
+1. [Meet Google programmers](https://www.youtube.com/shorts/UvpGHZw79DA)
+   
+2. [Try Scratch Team-1](https://www.youtube.com/watch?v=jXUZaf5D12A)
+
+3. [Watch Scratch Team-2](https://www.youtube.com/watch?v=98awWpkx9UM)
+   
+---
 
 
 # 1. Introduction
