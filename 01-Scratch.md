@@ -4,13 +4,18 @@ Start the Day with a word-search.
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
-![Scratch](/images/scratch.png/scratch-word.png)
-is a program that will help you make 
-<span style="color:green;font-weight:700;font-size:16px">*Music videos* **OR** *Tell stories*
-*with* computer code.
+<center><img alt="Scratch" src="/images/scratch.png/scratch-word.png" width="40%" />
+
+is a free online program that can help you make 
+<span style="color:green;font-weight:700;font-size:16px">*Music Videos* **OR** *Tell Stories*
+**and** Learn Computer Code
+@ scratch.mit.edu
 </span>
 
-<hr style="background-color: rgb(5, 113, 237); height: 3px;">
+<img alt="Scratch" src="/images/scratch.png/01.png" width="50%" />
+</center>
+
+---
 
 ### Today's Missions:
 
@@ -35,6 +40,10 @@ is a program that will help you make
 |<center> Jinho Does! <br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch.png/Jinho.png" width="40%" alt="Jinho"> </a> </center>|
 |<center> Getting Started with Scratch <br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch.png/scratch.png" width="40%" alt="Getting Started"> </a> </center>|
 
+testing below
+
+<center> Getting Started with Scratch <br> <a href="http://www.youtube.com/watch?feature=player_embedded&v=9jTPZfhuVro" target="_blank"><img src="/images/scratch.png/Abhi.png" alt="HERE" width="240" height="180" border="10" /></a></center>
+
 <center> Getting Started with Scratch <br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch.png/scratch.png" width="40%" alt="Getting Started"> </a> </center>
 
 ---
@@ -44,7 +53,7 @@ is a program that will help you make
 
 |![turing pic](/images/scratch.png/turing.movie.png)|
 |:-|
-|Alan Turing was a `computer scientist` (*that 'job' wasn't even invented yet*). He was interested in how **logic** and **language**. He imagined machines that solved problems by following rules. He had one idea he called the **Turing Test**, a test to see if machines could fool people!|
+|Alan Turing was a `computer scientist` (*that job/title wasn't even invented yet*). He was interested in how **logic** and **language**. He imagined machines that solved problems by following rules. He had one idea called the `Turing Test`, a test to see if machines could fool people!|
 
 
 ---
