@@ -1,18 +1,28 @@
 # Day 1: Start With Scratch
 
-<hr style="border-color: green; height: 3px;">
+Start the Day with a word-search.
 
-<hr style="border: dashed rgb(0,255,0) 1.0px;background-color: rgb(170,0,0);height: 15.0px;"/>
+<hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
-**Today's Missions:** 
-
-<span style="color:green;font-weight:900;font-size:16px">
-&nbsp;&nbsp;&nbsp;1. Join Scratch. &nbsp;&nbsp; Explore.  &nbsp;&nbsp; Ask Questions.
+![Scratch](/images/scratch.png/scratch-word.png)
+is a program that will help you make 
+<span style="color:green;font-weight:700;font-size:16px">*Music videos* **OR** *Tell stories*
+*with* computer code.
 </span>
+
+<hr style="background-color: rgb(5, 113, 237); height: 3px;">
+
+### Today's Missions:
+
+<span style="color:green;font-weight:700;font-size:16px">
+1. Join Scratch. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ask Questions.
+</span>
+
 <br>
 <br>
+
 <span style="color:green;font-weight:900;font-size:16px">
-&nbsp;&nbsp;&nbsp;2. Think: How would you describe Scratch to a friend?
+2. Think: How would you describe Scratch to a friend?
 </span>
 
 
@@ -20,21 +30,13 @@
 
 ### A. Mental Floss 
 
-What is Mental Floss
-
-```<a href="https://www.youtube.com/watch?v=9jTPZfhuVro">
-  <img src="/images/scratch.png/scratch.png" width="40%" alt="Link to Example.com">
-</a>
-```
-
+*You know: Clean out the old junk from your brain.* ;)
 
 |Who Uses Scratch And Why?|
 |:-:|
-|[Getting Started with Scratch](https://www.youtube.com/watch?v=9jTPZfhuVro) <br> <img src="/images/scratch.png/scratch.png" width="60%" />|
-|[Jinho does!](https://www.youtube.com/watch?v=TDzeGXatsk8)<br><img src="/images/scratch.png/Jinho.png" width="60%" />|
-|[Abhi does!](https://www.youtube.com/watch?v=uDULFYzaxig) <br> <img src="/images/scratch.png/Abhi.png" width="60%" />|
-
-
+|<center> Abhi Does! <br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch.png/Abhi.png" width="40%" alt="Abhi"> </a> </center>|
+|<center> Jinho Does! <br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch.png/Jinho.png" width="40%" alt="Jinho"> </a> </center>|
+|<center> Getting Started with Scratch <br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch.png/scratch.png" width="40%" alt="Getting Started"> </a> </center>|
 
 
 ![hr](/images/scratch.png/hr.png)
