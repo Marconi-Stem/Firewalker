@@ -4,15 +4,14 @@ Start the Day with a word-search.
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
-<center><img alt="Scratch" src="/images/scratch.png/scratch-word.png" width="40%" />
+<center><img alt="Scratch" src="/images/scratch.png/scratch-word.png" width="40%" /></center>
 
-is a free online program that can help you make 
-<span style="color:green;font-weight:700;font-size:16px">*Music Videos* **OR** *Tell Stories*
-**and** Learn Computer Code
+<center>is a free online program that can help you make:<br>
+<span style="color:green;font-weight:700;font-size:16px">Music Videos | Tell Stories | Learn Computer Code<br>
 @ scratch.mit.edu
-</span>
-
-<img alt="Scratch" src="/images/scratch.png/01.png" width="50%" />
+</span></center>
+<br>
+<center><img alt="Scratch" src="/images/scratch.png/01.png" width="50%" />
 </center>
 
 ---
@@ -52,8 +51,11 @@ testing below
   - Early `computer scientists` had backgrounds in mathematics, and languages, which influenced the way they approached computing.
 
 |![turing pic](/images/scratch.png/turing.movie.png)|
-|:-|
+|:-:|
+
+||
 |Alan Turing was a `computer scientist` (*that job/title wasn't even invented yet*). He was interested in how **logic** and **language**. He imagined machines that solved problems by following rules. He had one idea called the `Turing Test`, a test to see if machines could fool people!|
+
 
 
 ---
@@ -97,4 +99,5 @@ testing below
 1. <span style="color:green;font-weight:700;font-size:20px">Push All Your Desks Together.</span>
 
 ---
+
 End
