@@ -1,3 +1,10 @@
+---
+layout: home
+title: Making Firewalker Protective Lights
+permalink: /
+---
+
+
 # Making The *Firewalker Protective Lights*
 
 July, 2025, Marconi Summer STEM course
