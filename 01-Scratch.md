@@ -52,13 +52,11 @@ testing below
 
 |![turing pic](/images/scratch.png/turing.movie.png)|
 |:-:|
-
-||
 |Alan Turing was a `computer scientist` (*that job/title wasn't even invented yet*). He was interested in how **logic** and **language**. He imagined machines that solved problems by following rules. He had one idea called the `Turing Test`, a test to see if machines could fool people!|
 
 
-
 ---
+
 
 ### B. Join Scratch
 
