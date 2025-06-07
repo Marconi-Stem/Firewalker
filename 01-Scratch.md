@@ -1,6 +1,7 @@
 # Day 1: Start With Scratch
 
-Start the Day with a word-search.
+Start the Day with a word-search. [Downloadable NEED PDF]
+- PDF should have a word search and a set of lines for students username and pasword for Scratch.
 
 <hr style="background-color: rgb(13, 237, 5); height: 3px;">
 
@@ -8,7 +9,7 @@ Start the Day with a word-search.
 
 <center>is a free online program that can help you make:<br>
 <span style="color:green;font-weight:700;font-size:16px">Music Videos | Tell Stories | Learn Computer Code<br>
-@ scratch.mit.edu
+@ scratch.mit.edu (make button)
 </span></center>
 <br>
 <center><img alt="Scratch" src="/images/scratch.png/01.png" width="50%" />
@@ -19,24 +20,23 @@ Start the Day with a word-search.
 ### Today's Missions:
 
 <span style="color:green;font-weight:700;font-size:16px">
-1. Join Scratch. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ask Questions.
+1. Join Scratch. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Explore.<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ask Questions.
 </span>
 <br><br>
-<span style="color:green;font-weight:900;font-size:16px">
-2. Think: How would you describe Scratch to a friend?
+<span style="color:red;font-weight:900;font-size:16px">
+1. Think: How would you describe Scratch to a friend?
 </span>
-<br><br>
 
 ---
 
 ### A. Mental Floss 
 
-*You know: Clean out the old junk from your brain.* ;)
+>*What is Mental Floss? Cleaning out your brain.*&nbsp;&nbsp; ;)
 
 |Who Uses Scratch And Why?|
 |:-:|
-|<center> Abhi Does! <br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch.png/Abhi.png" width="40%" alt="Abhi"> </a> </center>|
-|<center> Jinho Does! <br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch.png/Jinho.png" width="40%" alt="Jinho"> </a> </center>|
+|<center> **Abhi Does!** <br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch.png/Abhi.png" width="40%" alt="Abhi"> </a> </center>|
+|<center> put in Natalie! <br> <a href="https://www.youtube.com/watch?"> <img src="/images/scratch.png/.png" width="40%" alt="Jinho"> </a> </center>|
 |<center> Getting Started with Scratch <br> <a href="https://www.youtube.com/watch?v=9jTPZfhuVro"> <img src="/images/scratch.png/scratch.png" width="40%" alt="Getting Started"> </a> </center>|
 
 testing below
